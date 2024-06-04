@@ -1,0 +1,8 @@
+@media print {
+    /* Add styles for printing here */
+    .printable-area {
+        /* Your styles for the printable area */
+        /* For example, you might want to hide non-printable content */
+        display: block;
+    }
+}
